@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saloni-rangari&label=Profile%20views&color=0e75b6&style=flat" alt="saloni-rangari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saloni-rangari" alt="saloni-rangari" /></a> </p>
-
 - 🔭 I’m currently working on [EduTech](www.github.com/sinister-virus/edu_tech.giy)
 
 - 🌱 I’m currently learning **Python**
